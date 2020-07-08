@@ -6,9 +6,19 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-modal": "^3.3.1",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-promise": "^0.6.0",
+    "redux-promise-middleware": "^5.0.0",
+    "redux-thunk": "^2.2.0",
+    "rxjs": "^5.5.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -30,5 +40,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "mock-local-storage": "^1.1.12"
   }
 }

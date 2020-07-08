@@ -1,0 +1,19 @@
+{
+    "columnNames": {
+        "id": "Id",
+        "assetName": "Name",
+        "price": "Price",
+        "lastUpdate": "Last update",
+        "assetType": "Type",
+        "favourites": "Add to favourite"
+    },
+    "applicationName": "Asset Management Tool",
+    "filterType": {
+        "select": "select",
+        "range": "range"
+    },
+    "favAction": {
+        "add": "add",
+        "remove": "remove"
+    }
+}
